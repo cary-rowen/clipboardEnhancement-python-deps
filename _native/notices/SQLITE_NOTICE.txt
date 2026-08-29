@@ -1,0 +1,10 @@
+SQLite runtime notice
+
+NVDA Clipboard bundles its own _sqlite3 loader and architecture-specific
+_sqlite3.pyd and sqlite3.dll binaries for AMD64 and ARM64.
+
+SQLite is in the public domain. Its official copyright and public-domain
+dedication are available at https://www.sqlite.org/copyright.html.
+
+CPython source: https://github.com/python/cpython
+SQLite source: https://www.sqlite.org/src/doc/trunk/README.md
